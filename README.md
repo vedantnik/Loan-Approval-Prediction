@@ -62,15 +62,16 @@ Evaluation
 
 ### Income Distribution
 
-(insert image)
+![Income Distribution](images/Loan_Approved_vs_Education_level.png)
+
 
 ### Correlation Heatmap
 
-(insert image)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Approval Distribution
 
-(insert image)
+![Approval Distribution](images/box_plots_loan_approved_vs_various_categories.png)
 
 ---
 
