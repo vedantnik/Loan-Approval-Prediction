@@ -60,19 +60,21 @@ Evaluation
 
 ## Exploratory Data Analysis
 
-### Income Distribution
+### Loan Approval Distribution
 
-![Income Distribution](images/Loan_Approved_vs_Education_level.png)
+![Loan Approval Distribution](images/loan_approved_vs_rejected.png)
 
+### Loan Approval by Education Level
+
+![Loan Approval by Education Level](images/loan_approved_vs_education_level.png)
 
 ### Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Approval Distribution
+### Box Plots
 
-![Approval Distribution](images/box_plots_loan_approved_vs_various_categories.png)
-
+![Box Plots](images/boxplots_loan_approved_vs_categories.png)
 ---
 
 ## Models Used
