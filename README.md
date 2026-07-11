@@ -62,11 +62,11 @@ Evaluation
 
 ### Loan Approval Distribution
 
-![Loan Approval Distribution](images/loan_approved_vs_rejected.png)
+![Loan Approval Distribution](images/Loan_Approval_distribution.png)
 
 ### Loan Approval by Education Level
 
-![Loan Approval by Education Level](images/loan_approved_vs_education_level.png)
+![Loan Approval by Education Level](images/Loan_Approved_vs_Education_level.png)
 
 ### Correlation Heatmap
 
@@ -74,7 +74,7 @@ Evaluation
 
 ### Box Plots
 
-![Box Plots](images/boxplots_loan_approved_vs_categories.png)
+![Box Plots](images/approval_distribution.png)
 ---
 
 ## Models Used
